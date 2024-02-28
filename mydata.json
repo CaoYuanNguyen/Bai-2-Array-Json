@@ -1,30 +1,37 @@
 [
     {
-      "name": "Minh",
-      "age": 18
+      "name": "Tom",
+      "piece": "cat",
+      "age": "4"
     },
     {
-      "name": "Lan",
-      "age": 11
+      "name": "Bull",
+      "piece": "dog",
+      "age": "6"
     },
     {
-      "name": "Tuan",
-      "age": 23
+      "name": "Khe",
+      "piece": "cat",
+      "age": "2"
     },
     {
-      "name": "Thao",
-      "age": 21
+      "name": "Bua",
+      "piece": "dog",
+      "age": "1"
     },
     {
-      "name": "Nhan",
-      "age": 32
+      "name": "Mally",
+      "piece": "elephant",
+      "age": "12"
     },
     {
-      "name": "Tung",
-      "age": 21
+      "name": "BigCat",
+      "piece": "tiger",
+      "age": "5"
     },
     {
-      "name": "Hoang",
-      "age": 33
+      "name": "Han",
+      "piece": "bird",
+      "age": "2"
     }
   ]
